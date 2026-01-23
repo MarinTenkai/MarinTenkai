@@ -1,4 +1,4 @@
-# Hola — soy David Marín Rivero o MarinTenkai
+# David Marín Rivero (MarinTenkai)
 
 Apasionado de la **ciberseguridad**, la **automatización** y la **nube**. Este repositorio reúne mi trabajo práctico y proyectos personales —principalmente con **Terraform** y tecnologías cloud— diseñados para afianzar conocimientos, simular arquitecturas reales y prepararme para retos profesionales y certificaciones.
 
