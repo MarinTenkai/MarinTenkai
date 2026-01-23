@@ -45,8 +45,8 @@ Consolidar la formación teórica con **experiencia práctica real**: diseñar, 
 
 # Contacto
 
-* **[davidmarinrivero@gmail.com](davidmarinrivero@gmail.com)**
-* **[LinkedIn](www.linkedin.com/in/davidmarinrivero)**
+* **[davidmarinrivero@gmail.com](mailto:davidmarinrivero@gmail.com)**
+* **[LinkedIn](https://www.linkedin.com/in/davidmarinrivero)**
 
 # Cierre
 
