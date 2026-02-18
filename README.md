@@ -37,7 +37,7 @@ Soy técnico superior en **Administración de Sistemas Informáticos en Red**, c
 
 # Objetivo profesional
 
-Consolidar la formación teórica con **experiencia práctica real**: diseñar, desplegar y asegurar arquitecturas en la nube lo más parecidas posible a entornos productivos. Aspiración a incorporarme como profesional en roles relacionados con arquitectura cloud, automatización o seguridad en infraestructuras modernas, y presentarme al examen de **AWS Solutions Architect** en un futuro cercano.
+Consolidar la formación teórica con **experiencia práctica real**: diseñar, desplegar y asegurar arquitecturas en la nube lo más parecidas posible a entornos productivos. Aspiración a incorporarme como profesional en roles relacionados con arquitectura cloud, automatización o seguridad en infraestructuras modernas, y presentarme a exámenes de certificaciones de la industria en el futuro.
 
 # Cómo uso este repositorio
 
