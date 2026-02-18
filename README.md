@@ -10,7 +10,7 @@ Soy técnico superior en **Administración de Sistemas Informáticos en Red**, c
 
 * Estudios superiores: **Administración de Sistemas Informáticos en Red** (especialidad en Ciberseguridad).
 * **AWS Certified Cloud Practitioner** — Certificación oficial obtenida en **diciembre de 2025**.
-* **AWS Certified Solution Architect - Associate** — Certificación oficial obtenida en **febrero de 2026**.
+* **AWS Certified Solutions Architect - Associate** — Certificación oficial obtenida en **febrero de 2026**.
 * Cursos adicionales relevantes:
 
   * **Cisco CyberOps Associate** — Escuela de Organización Industrial (EOI).
