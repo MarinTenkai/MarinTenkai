@@ -23,7 +23,7 @@ Soy técnico superior en **Administración de Sistemas Informáticos en Red**, c
 # Áreas de interés y competencias
 
 * **Cloud (AWS):** Diseño de arquitecturas, buenas prácticas, seguridad y automatización.
-* **Infraestructura como código:** Terraform (diseño y despliegue reproducible de infraestructuras).
+* **Infraestructura como código:** Terraform (diseño y despliegue reproducible de infraestructuras) y Ansible (Adminstración de Sistemas).
 * **Automatización & Scripting:** Python para automatización, pruebas y orquestación.
 * **Ciberseguridad:** Monitorización, respuesta a incidentes, hardening de sistemas y buenas prácticas de seguridad en entornos cloud y on-prem.
 * **Sistemas y redes:** Administración de servidores, redes y servicios críticos.
