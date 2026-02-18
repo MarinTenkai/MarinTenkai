@@ -9,14 +9,15 @@ Soy técnico superior en **Administración de Sistemas Informáticos en Red**, c
 # Formación y certificaciones
 
 * Estudios superiores: **Administración de Sistemas Informáticos en Red** (especialidad en Ciberseguridad).
-* **AWS Certified Cloud Practitioner** — Certificación oficial obtenida en **noviembre de 2025**.
-* Actualmente preparando: **AWS Solutions Architect**.
+* **AWS Certified Cloud Practitioner** — Certificación oficial obtenida en **diciembre de 2025**.
+* **AWS Certified Solution Architect - Associate** — Certificación oficial obtenida en **febrero de 2026**.
 * Cursos adicionales relevantes:
 
   * **Cisco CyberOps Associate** — Escuela de Organización Industrial (EOI).
   * **Ciberseguridad** — Coursera & Google.
   * **BootCamp de Python** — TheAppBrewery & Udemy.
   * **Terraform Associate** — Curso en Udemy.
+  * **Ansible** — Curso en Udemy.
   * **AWS Cloud Practitioner & AWS Solutions Architect** — Cursos por Joan Amengual y Stephane Maarek (Udemy).
 
 # Áreas de interés y competencias
